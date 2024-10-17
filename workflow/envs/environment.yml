@@ -1,4 +1,4 @@
-name: clustur_pub
+name: phylotypr_pub
 channels:
   - conda-forge
   - bioconda
